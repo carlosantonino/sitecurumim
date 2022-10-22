@@ -1,6 +1,14 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    width: 990px;
+    text-align: justify;
+    margin: auto;
+    height: 100vh;
 }
 
 header {
@@ -21,7 +29,7 @@ header > nav {
     height: 30px;
 }
 
-#titulo {
+section > h1 {
     color: #24401F;
     text-align: center;
     padding-top: 20px;
