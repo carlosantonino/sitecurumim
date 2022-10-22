@@ -37,10 +37,21 @@ header > nav {
 #menu {
     display: flex;
     flex-direction: row;
-    text-decoration: none;
-    list-style: none;
+    
 }
 
 #menu > li {
     margin-left: 15px;
+    list-style: none;
+}
+
+#menu > li > a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu > li > a:hover {
+    color: white;
+    background-color: black;
+    padding: 10px 5px;
 }
