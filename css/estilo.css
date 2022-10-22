@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#titulo {
+    color: black;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#logo {
+    width: 220px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
