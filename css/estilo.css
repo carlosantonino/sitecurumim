@@ -3,6 +3,18 @@
     padding: 0px;
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+header > nav {
+    padding-top: 80px;
+    padding-right: 70px;
+}
+
 #barra {
     background-color: #24401F;
     width: 100%;
@@ -20,4 +32,15 @@
     width: 220px;
     padding-top: 10px;
     padding-left: 10px;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+}
+
+#menu > li {
+    margin-left: 15px;
 }
