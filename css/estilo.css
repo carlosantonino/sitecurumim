@@ -32,7 +32,7 @@ header > nav {
 section > h1 {
     color: #24401F;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -67,4 +67,33 @@ section > h1 {
 article > p {
     padding: 5px;
     
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+}
+
+#container #form {
+    display: inline;
+    width: 250px;
+    padding: 40px;
+    border: solid 1px black;
+    background-color: #03A64A;
+    color: white;
+    font-weight: 900;
+}
+
+#form input {
+    margin-top: 10px;
+}
+
+section > #titulo {
+    color: #24401F;
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 20px;
 }
