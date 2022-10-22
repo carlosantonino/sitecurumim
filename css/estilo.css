@@ -63,3 +63,8 @@ section > h1 {
     background-color: #03A64A;
     padding: 10px 5px;
 }
+
+article > p {
+    padding: 5px;
+    
+}
