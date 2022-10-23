@@ -25,8 +25,7 @@ header {
     display: flex;
     flex-direction: row;
     position: absolute;
-    justify-content: space-between;
-    
+    justify-content: space-between;    
 }
 
 header > nav {
