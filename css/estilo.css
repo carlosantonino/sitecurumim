@@ -5,7 +5,7 @@
 }
 
 section {
-    width: 900px;
+    width: 850px;
     text-align: justify;
     margin: auto;
     height: 100vh;
@@ -41,10 +41,12 @@ header > nav {
 }
 
 section > h1 {
-    color: black;
+    color: #24401F;
     text-align: center;
-    padding-top: 80px;
+    margin-top: 50px;
+    padding-top: 20px;
     padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.486);
 }
 
 #logo {
@@ -95,7 +97,7 @@ article > p {
     display: inline;
     width: 250px;
     padding: 40px;
-    border: solid 1px black;
+    border: solid 1px #24401F;
     background-color: #03A64A;
     color: white;
     font-weight: 900;
