@@ -5,11 +5,20 @@
 }
 
 section {
-    width: 990px;
+    width: 900px;
     text-align: justify;
     margin: auto;
     height: 100vh;
-    padding: 10px;
+    padding: 30px;
+    background-image: url("/img/bg.png");
+    margin-top: 70px;
+    
+}
+
+section > article > p {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.514);
+    padding: 10px 20px;
 }
 
 header {
@@ -32,7 +41,7 @@ header > nav {
 }
 
 section > h1 {
-    color: #24401F;
+    color: black;
     text-align: center;
     padding-top: 80px;
     padding-bottom: 20px;
