@@ -9,9 +9,9 @@ section {
     text-align: justify;
     margin: auto;
     height: 100vh;
-    padding: 30px;
+    padding: 60px;
     background-image: url("/img/bg.png");
-    margin-top: 70px;
+    margin-top: 90px;
     
 }
 
@@ -37,6 +37,13 @@ header > nav {
     background-color: #03A64A;
     width: 100%;
     height: 60px;
+}
+
+#barra2 {
+    background-color: #03A64A;
+    margin-top: 70px;
+    width: 100%;
+    height: 10px;
 }
 
 section > h1 {
