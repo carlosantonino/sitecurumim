@@ -92,3 +92,19 @@ article > p {
     margin-top: 10px;
 }
 
+form > textarea {
+    padding: 5px;
+}
+
+footer {
+    background-color: #03A64A;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+
+footer > p {
+    padding-top: 70px;
+}
+
+
